@@ -1,6 +1,6 @@
-#i just write some code
+#i just made some changes
 print("kalimera")
 x <- 5
 y <- 3
-ioanna <- x+y
+ioanna_changed <- x-y
 print(ioanna)
